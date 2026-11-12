@@ -99,4 +99,4 @@ Beat general-purpose STT on music, not on speech. That's the bar.
 4. Pass 2 prototype: rhyme/meter/repeat rescoring on the lattice.
 5. Caption-ready check, then a real caption job run through it end to end.
 
-No build started. No repo created yet. Next step is Aaron's call — and Echo's read, if he wants to hand it over.
+Repo is live — concept stage, no build started yet.
